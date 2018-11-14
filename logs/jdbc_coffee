@@ -1,0 +1,312 @@
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@7058c4e3 [wrapping: com.mysql.jdbc.JDBC4Connection@787c5092]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@76000c5e [wrapping: com.mysql.jdbc.JDBC4Connection@bd05434]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@3bb6aed4 [wrapping: com.mysql.jdbc.JDBC4Connection@1fff275a]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@3bb6aed4 [wrapping: com.mysql.jdbc.JDBC4Connection@6d6192f5]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@3e75a4c4 [wrapping: com.mysql.jdbc.JDBC4Connection@b1a4aab]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@731f8368 [wrapping: com.mysql.jdbc.JDBC4Connection@278d51d7]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@731f8368 [wrapping: com.mysql.jdbc.JDBC4Connection@10f8b1e0]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@547c2831]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@690a2cd5 [wrapping: com.mysql.jdbc.JDBC4Connection@43170213]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@2a3b684a]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@690a2cd5 [wrapping: com.mysql.jdbc.JDBC4Connection@3efb3821]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@59d6deed]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@23aa927b]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@42a1973e]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@378ac43a]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@18df2d8d]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@3f50f702 [wrapping: com.mysql.jdbc.JDBC4Connection@1a5cd50]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@5601e935]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@81ab0c6]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@611aa84f [wrapping: com.mysql.jdbc.JDBC4Connection@66035285]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@7d05173e]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@4573404a]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@38d17c93]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@611aa84f [wrapping: com.mysql.jdbc.JDBC4Connection@612a8669]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@3f50f702 [wrapping: com.mysql.jdbc.JDBC4Connection@425bf39]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@45b8b919]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@222cd44f]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@14a1c1d1]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@7e38cac9]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **)]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@24279a78 [wrapping: com.mysql.jdbc.JDBC4Connection@56a3dc79]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **);]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@76180852 [wrapping: com.mysql.jdbc.JDBC4Connection@1ea79410]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **);]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@40c376a2]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,10,** NOT SPECIFIED **);]
+[2018-11-14] errorCode 0 errorMessage No value specified for parameter 4
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@1c61b45a]
+[2018-11-14] End ConnectionProviderTest
+[2018-11-14] Start CoffeeDaoTest
+[2018-11-14] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-14] []
+[2018-11-14] insertCoffee()
+[2018-11-14] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-14] rowAffected 1
+[2018-11-14] End CoffeeDaoTest
+[2018-11-14] Start ConnectionProviderTest
+[2018-11-14] com.mchange.v2.c3p0.impl.NewProxyConnection@76180852 [wrapping: com.mysql.jdbc.JDBC4Connection@63bd1ce4]
+[2018-11-14] End ConnectionProviderTest
