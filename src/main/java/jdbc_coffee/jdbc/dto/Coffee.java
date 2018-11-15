@@ -28,6 +28,7 @@ public class Coffee {
 		this.saleCnt = saleCnt;
 		this.marginRate = marginRate;
 	}
+	
 	public int getNo() {
 		return no;
 	}

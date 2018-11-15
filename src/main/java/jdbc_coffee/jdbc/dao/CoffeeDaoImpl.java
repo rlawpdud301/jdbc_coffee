@@ -7,6 +7,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.swing.JTextField;
+
 import jdbc_coffee.jdbc.ConnectionProvider;
 import jdbc_coffee.jdbc.LogUtil;
 import jdbc_coffee.jdbc.dto.Coffee;
@@ -73,9 +75,27 @@ public class CoffeeDaoImpl implements Coffeedao {
 	}
 
 	@Override
-	public Coffee selectCoffeedaoByNo(Coffee coffee) throws SQLException {
-		// TODO Auto-generated method stub
-		return null;
+	public Coffee selectCoffeedaoByCode(Coffee coffee) throws SQLException {
+		  LogUtil.prnLog("selectCoffeeByCode()");
+	      coffee = null;
+	      
+	      String sql = "select name from product where code=?;";
+	      
+	      try (Connection conn = ConnectionProvider.getConnection(); 
+	    	PreparedStatement pstmt = conn.prepareStatement(sql)) {
+	         pstmt.setString(1, coffee.getCode());
+	         LogUtil.prnLog(pstmt);
+	         try (ResultSet rs = pstmt.executeQuery()) {
+	            if (rs.next()) {
+	               coffee = getCoffee(rs);
+	               System.out.println(conn);
+	            }
+	         }
+	      }
+	      return coffee;
+
 	}
+
+	
 
 }
