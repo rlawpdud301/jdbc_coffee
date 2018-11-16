@@ -4,12 +4,13 @@ import java.sql.SQLException;
 import java.util.List;
 
 import jdbc_coffee.jdbc.dto.ProductName;
+import jdbc_coffee.jdbc.dto.SaleDetail;
 
 
 
 
-public interface ProductNameDao {
+public interface SaleDetailDao {
 	
-	ProductName getName(ProductName coffee) throws SQLException;	
+	List<SaleDetail> getRank(Boolean boolean1) throws SQLException;	
 	
 }

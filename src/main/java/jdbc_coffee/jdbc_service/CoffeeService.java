@@ -6,7 +6,8 @@ import jdbc_coffee.jdbc.dao.CoffeeDaoImpl;
 import jdbc_coffee.jdbc.dao.Coffeedao;
 import jdbc_coffee.jdbc.dao.ProductNameDaoImpl;
 import jdbc_coffee.jdbc.dto.Coffee;
-import jdbc_coffee.ui.ProductName;
+import jdbc_coffee.jdbc.dto.ProductName;
+
 
 public class CoffeeService {
 

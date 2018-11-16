@@ -8,7 +8,8 @@ import java.util.List;
 
 import jdbc_coffee.jdbc.ConnectionProvider;
 import jdbc_coffee.jdbc.LogUtil;
-import jdbc_coffee.ui.ProductName;
+import jdbc_coffee.jdbc.dto.ProductName;
+
 
 
 public class ProductNameDaoImpl implements ProductNameDao {

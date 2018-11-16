@@ -1,4 +1,4 @@
-package jdbc_coffee.ui;
+package jdbc_coffee.jdbc.dto;
 
 public class ProductName {
 	private String code;

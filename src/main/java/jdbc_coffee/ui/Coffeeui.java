@@ -25,6 +25,8 @@ import jdbc_coffee.jdbc.LogUtil;
 import jdbc_coffee.jdbc.dao.CoffeeDaoImpl;
 import jdbc_coffee.jdbc.dao.Coffeedao;
 import jdbc_coffee.jdbc.dto.Coffee;
+import jdbc_coffee.jdbc.dto.ProductName;
+import jdbc_coffee.jdbc.dto.SaleDetail;
 import jdbc_coffee.jdbc_service.CoffeeService;
 
 import javax.swing.SwingConstants;
@@ -39,6 +41,7 @@ public class Coffeeui extends JFrame implements ActionListener {
 	private JButton btnOut1;
 	private JButton btnInsert;
 	private Coffeedao dao;
+	private JButton btnOut2;
 
 
 	/**
@@ -117,14 +120,19 @@ public class Coffeeui extends JFrame implements ActionListener {
 
 			@Override
 			public void warning() {
-				if(textCode.getText().length()==4) {
-					 String aaa = textCode.getText().trim();
-					 System.out.println("dddddddd" + aaa);
-					 ProductName pdt = new ProductName(aaa);
+				if(textCode.getText().length()>=4) {
+					 String code = textCode.getText().trim();
+					
+					 ProductName pdt = new ProductName(code);
 		               try {
-		            	   CoffeeService kkkk = new CoffeeService();
-		            	   ProductName searchPdt = kkkk.searchProduct(pdt);
+		            	   CoffeeService name = new CoffeeService();
+		            	   ProductName searchPdt = name.searchProduct(pdt);
 		            	   lblNewLabel_4.setText(searchPdt.getName());
+		            	   String a =lblNewLabel_4.getText();
+		            	   System.out.println(a);
+		            	   if(lblNewLabel_4.getText()==null) {
+		            		   lblNewLabel_4.setText("해당 제품이 없음");
+		            	   }
 		               } catch (SQLException e) {
 		                  // TODO Auto-generated catch block
 		                  e.printStackTrace();
@@ -135,6 +143,7 @@ public class Coffeeui extends JFrame implements ActionListener {
 						
 					
 				}
+				
 				
 			}
 				
@@ -155,7 +164,8 @@ public class Coffeeui extends JFrame implements ActionListener {
 		btnOut1.addActionListener(this);
 		panel_1.add(btnOut1);
 		
-		JButton btnOut2 = new JButton("출력2");
+		btnOut2 = new JButton("출력2");
+		btnOut2.addActionListener(this);
 		panel_1.add(btnOut2);
 	}
 
@@ -163,12 +173,33 @@ public class Coffeeui extends JFrame implements ActionListener {
 	
 
 	public void actionPerformed(ActionEvent e) {
+		if (e.getSource() == btnOut2) {
+			do_btnOut2_actionPerformed(e);
+		}
 		if (e.getSource() == btnInsert) {
 			do_btnInsert_actionPerformed(e);
+		}
+		if (e.getSource() == btnOut1) {
+			do_btnOut1_actionPerformed(e);
 		}
 		
 	}
 	
+	protected void do_btnOut1_actionPerformed(ActionEvent e) {
+		RankFrame newFame = new RankFrame(true);
+		
+		newFame.setVisible(true);
+	}
+	
+	protected void do_btnOut2_actionPerformed(ActionEvent e) {
+		RankFrame newFame = new RankFrame(false);
+		
+		
+		newFame.setVisible(true);
+	}
+
+
+
 	protected void do_btnInsert_actionPerformed(ActionEvent e) {
 		
 		try {
@@ -189,4 +220,5 @@ public class Coffeeui extends JFrame implements ActionListener {
 		int margen = (int) Double.parseDouble(textMarg.getText().trim());
 		return new Coffee(i,code, price, cnt, margen);
 	}
+	
 }

@@ -762,3 +762,216 @@
 [2018-11-15] Start ConnectionProviderTest
 [2018-11-15] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@5ac7902d]
 [2018-11-15] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@1293d74b]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@59232ac4]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@463f52db]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@155db672]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@76180852 [wrapping: com.mysql.jdbc.JDBC4Connection@139c90f9]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@1e4ad4a]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@32e11a8c]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@76180852 [wrapping: com.mysql.jdbc.JDBC4Connection@1ab26a91]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@6afe7b9]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@7c1a50f9 [wrapping: com.mysql.jdbc.JDBC4Connection@1ca8fb28]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A001', 200,20,20);]
+[2018-11-16] rowAffected 1
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@73f51b97]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@15ffe9ef]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@67f38ec5]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@45d84809]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@2721145a]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@7c1a50f9 [wrapping: com.mysql.jdbc.JDBC4Connection@31ad3c73]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@93b97e3]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@13637f96]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@4b59a034]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@3e2ee795]
+[2018-11-16] End ConnectionProviderTest
+[2018-11-16] Start CoffeeDaoTest
+[2018-11-16] select no, code, price,saleCnt,marginRate from sale]
+[2018-11-16] []
+[2018-11-16] insertCoffee()
+[2018-11-16] insert into sale values(null, 'A003', 4500,150,10);]
+[2018-11-16] rowAffected 1
+[2018-11-16] End CoffeeDaoTest
+[2018-11-16] Start ConnectionProviderTest
+[2018-11-16] com.mchange.v2.c3p0.impl.NewProxyConnection@b02faf6 [wrapping: com.mysql.jdbc.JDBC4Connection@4c7b4655]
+[2018-11-16] End ConnectionProviderTest
